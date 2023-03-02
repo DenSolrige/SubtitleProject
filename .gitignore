@@ -5,3 +5,9 @@ parsedsubtitles
 rawsubtitles
 minedcontent.txt
 **/__pycache__/
+
+
+blacklist.txt
+knownwords.txt
+questionablewords.txt
+unimportantwords.txt
